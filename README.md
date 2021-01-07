@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+## Things I'm trying to figure out these days
+<img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+
 <!-- visitor badge-->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id==anidever.anidever)
+
 <!--
 **anidever/anidever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
