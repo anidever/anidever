@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- visitor badge-->
-![visitors](https://visitor-badge.glitch.me/badge?anidever=anidever.anidever)
+![visitors](https://visitor-badge.glitch.me/badge?page_id==anidever.anidever)
 <!--
 **anidever/anidever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
