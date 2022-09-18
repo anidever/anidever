@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anidever)](https://git.io/streak-stats)
-<!-- visitor badge-->
-![visitors](https://visitor-badge.glitch.me/badge?page_id==anidever.anidever)
 
 </br>
 
 📈 **My GitHub Stats:**
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anidever&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anidever&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+</br>
+<!-- visitor badge-->
+![visitors](https://visitor-badge.glitch.me/badge?page_id==anidever.anidever)
